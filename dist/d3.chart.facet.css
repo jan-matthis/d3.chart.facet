@@ -1,0 +1,56 @@
+svg, .tooltip {
+  font-family: sans-serif;
+  font-size:12px;
+  //background-color: #A9A9F5;
+  cursor: default;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  shape-rendering: crispEdges;
+  stroke: #fff;
+}
+
+.axis path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: #666;
+  stroke-width: 2.4px;
+}
+
+.outer {
+  fill: #fff;
+  stroke-width: 0;
+}
+
+.inner {
+  fill: #efefef;
+  stroke-width: 0;
+}
+
+.bg2 {
+  fill: red;
+  stroke-width: 0;
+}
+
+.tooltip {
+  background-color: #fff;
+  padding: 5px 7px 5px 7px;
+  position: absolute;
+  cursor: default;
+  z-index: 99999999999;
+}
+
+.text-icon {
+  cursor: default;
+}
+
+.line {
+  fill: none;
+  stroke: #666;
+  stroke-width: 2.4px;
+}

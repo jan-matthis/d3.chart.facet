@@ -1,7 +1,7 @@
 {
   "name": "d3.chart.facet",
   "description": "d3.chart based facet plots",
-  "version": "0.1",
+  "version": "0.0.1",
   "author": "@jan-matthis",
   "license": "MIT Expat",
   "repository": {
